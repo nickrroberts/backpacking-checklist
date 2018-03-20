@@ -1,9 +1,10 @@
 # Temperate Climate Weekender Backpacking Checklist
 
 ## Basics
+* Backpack (ahem)
 * Tent
-* Stove (Jetboil)
-* Stove fuel canister (Jetpower) 
+* Stove ([Jetboil](https://jetboil.johnsonoutdoors.com/stoves-systems/flash-cooking-system))
+* Stove fuel canister ([Jetpower](https://www.academy.com/shop/pdp/jetboil-jetpower-isobutane-propane-fuel-canister)) 
 * Stove fuel canister backup
 * Down sleeping bag - 20 degree
 * Sleeping pad air mattress
@@ -12,7 +13,7 @@
 * Fleece
 * Spare socks
 * Spare underwear
-* Light gloves (like wool)-- I have a pair of trusty smartwool ones)
+* Light gloves (like wool)-- I have a pair of trusty smartwool ones
 * Beanie (something to warm ur noggin)
 * Water source (camelbak or water bottles --but really who in their right mind would opt for waterbottles?)
 * Water filter (I use a [Platypus 4-liter Gravity filter](https://www.rei.com/product/866422/platypus-gravityworks-water-filter-system-4-liter))
