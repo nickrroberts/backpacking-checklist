@@ -27,6 +27,6 @@
 * Legalized greenery
 
 ## Just in case
-* One pack of freeze dried food
+* One pack of freeze-dried food
 * First aid kit (bandages, antibacterial ointments, tweezers, aspirin, bone saw)
 
